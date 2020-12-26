@@ -1,0 +1,8 @@
+node_modules/**/*
+build/**/*
+
+*.DS_STORE
+*.key
+
+package-lock.json
+
