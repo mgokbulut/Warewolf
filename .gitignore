@@ -1,6 +1,7 @@
 node_modules/**/*
 build/**/*
 
+# Worst case => git rm --cached .DS_Store
 *.DS_STORE
 *.key
 
